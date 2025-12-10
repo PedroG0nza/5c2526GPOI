@@ -1,4 +1,5 @@
 buongiorno
+<<<<<<< HEAD
 
 opòo
 <<<<<<< HEAD
@@ -6,3 +7,7 @@ gaafsofjoanf
 =======
 ngfenioonifre
 >>>>>>> 521ff7acd10a422ec7fd7dc59a9b50eb4744e16e
+=======
+ngfenioonifre
+njjkknmklkkl , ,m klmlkmkm
+>>>>>>> 96e1bcd0cd5017b71501c993bf0248716333ae7f
